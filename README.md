@@ -8,5 +8,5 @@ Results on my Aadhar Card can be seen in the notebook itself till further change
 
 
 Currently, 
-Master Branch contains Non-DL approaches
-DL Branch contains DL approaches
+Master Branch contains Non-DL approaches and DL Branch contains DL approaches
+
