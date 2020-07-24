@@ -1,5 +1,6 @@
 # Image-Forgery-Detection
 
+"master" branch contains Non-DL approaches and "DL" branch contains DL approaches.
 Models for Digital Image Forgery Detection
 
 This contains all the models built using Deep Learning approaches
