@@ -2,11 +2,7 @@
 
 Models for Digital Image Forgery Detection
 
-
 Results on my Aadhar Card can be seen in the notebook itself till further changes.
 
-
-
-Currently, 
-Master Branch contains Non-DL approaches and DL Branch contains DL approaches
+"master" branch contains Non-DL approaches and "DL" branch contains DL approaches
 
