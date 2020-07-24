@@ -17,5 +17,5 @@ UNET - For Localisation of forgery using ELA and its masks as the dataset.
 Data_Preprocessing - Contains the code for prerprocessing of the CASIA2 dataset.
 
 GANs Based Autoencoder :-
-This contains the GANs aided Autoencoder model built to detect forgery in images using self-supervised learning approach.
+This contains the GANs aided Autoencoder model built to detect and localise forgery in images using self-supervised learning approach.
 Reference from : https://arxiv.org/pdf/1802.04881.pdf - Satellite Image Forgery Detection
