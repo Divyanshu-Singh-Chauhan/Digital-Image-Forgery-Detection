@@ -1,7 +1,8 @@
 # Image-Forgery-Detection
 
 "master" branch contains Non-DL approaches and "DL" branch contains DL approaches.
-Models for Digital Image Forgery Detection
+
+Models for Digital Image Forgery Detection.
 
 This contains all the models built using Deep Learning approaches.
 The Dataset used for all the models was CASIA2 Dataset.
